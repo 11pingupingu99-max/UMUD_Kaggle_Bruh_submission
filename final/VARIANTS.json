@@ -1,0 +1,29 @@
+{
+ "notebook": "final/original/UMUD_R96_KAGGLE.ipynb (engine used for the competition submissions; VARIANT pasted in cell 1)",
+ "notebook_sha256": "8776f8cc04868f88a5bda5468d09b59e26680ef327fef29a94f2c53f019238f6",
+ "selected_final_submissions": [
+  "F1",
+  "F3"
+ ],
+ "F1": {
+  "public_lb": 0.20497,
+  "description": "reproducible baseline: hand-set token pipeline (B12) + model tables from code (ctab) + base without R11-era values (rbasek) + groups, PNG muscle labels and scale read from the images (img)",
+  "variant": "fl_k0.944+pa_d+0.58+mt_d+0.137+fl_seq0+fl_guard1.8+png_arpa0.84375+pa_d-0.08@png+png_arfl0.84375+pa_d+0.5@tif+pa_s0.85@tif+pa_s0.95@png+arpa1.125@sie+arpa0.9076@telr+arfl0.9414@telr+arfl1.0375@sie+pa_f-0.46@sie+mt_band0.75+pa_f-1.58@gry+fl_f1.0506@gry+fl_f0.9964@teln+pa_f+0.12@telr+pa_med1@png+pa_g1.0@sie+pa_g0.8@telr+pa_g0.6@teln+pa_g0.91@gry+pa_g0.7@png+fl_pg0.21@tif+fl_pg0.15@png+pa_med1@tif+png_mus1+pa_pg0.3+mtv0.7+fl_s0.9@tel+fl_dev0.5+pa_ens1@png+fl_gx1.35+mtva1+pa_f+1.45@teln+fl_f0.9986@telr+mt_f+0.1@sie+mt_f-0.24@telr+mt_f-0.4@teln+pa_seq0.5@tel+fxf130+fl_fx0.85+fl_f0.9754@sie+fl_f0.9871@png+pa_f-0.02@png+fxm85+mt_fx0.35+ctab+rbasek+img",
+  "notebook": "final/UMUD_FINAL_F1_KAGGLE.ipynb",
+  "notebook_sha256": "b94644fe3fe061d275cd051f02b5f70febbb32b595cb26700ae77ac112cb0737",
+  "csv_sha256_without_img": "73d6a7123683d04a3206affcd70b4e9f92382361565d0f13d941524ef993a5ef"
+ },
+ "F3": {
+  "public_lb": 0.20479,
+  "description": "F1 + FL feature with R22/F71 folds decoded separately (late fusion, FX column 132) outside Telemed screens + PA from 6 decoder votes (FX column 72) outside Telemed; group FL/PA levels compensated to F1 with fixed constants",
+  "variant": "fl_k0.944+pa_d+0.58+mt_d+0.137+fl_seq0+fl_guard1.8+png_arpa0.84375+pa_d-0.08@png+png_arfl0.84375+pa_d+0.5@tif+pa_s0.85@tif+pa_s0.95@png+arpa1.125@sie+arpa0.9076@telr+arfl0.9414@telr+arfl1.0375@sie+pa_f-0.40@sie+mt_band0.75+pa_f-1.76@gry+fl_f1.0675@gry+fl_f0.9964@teln+pa_f+0.12@telr+pa_med1@png+pa_g1.0@sie+pa_g0.8@telr+pa_g0.6@teln+pa_g0.91@gry+pa_g0.7@png+fl_pg0.21@tif+fl_pg0.15@png+pa_med1@tif+png_mus1+pa_pg0.3+mtv0.7+fl_s0.9@tel+fl_dev0.5+pa_ens1@png+fl_gx1.35+mtva1+pa_f+1.45@teln+fl_f0.9986@telr+mt_f+0.1@sie+mt_f-0.24@telr+mt_f-0.4@teln+pa_seq0.5@tel+fxf132+fl_fx0.85+fl_f0.9833@sie+fl_f0.9890@png+pa_f-0.13@png+fxm85+mt_fx0.35+ctab+rbasek+fxp72+pa_fx1.0@sie+pa_fx1.0@png+pa_fx1.0@gry+img",
+  "notebook": "final/UMUD_FINAL_F3_KAGGLE.ipynb",
+  "notebook_sha256": "e75ac89e7d190365d4f4874d667dd896dd5da0c5aeb21a1d13ade106ffc16f49",
+  "csv_sha256_without_img": "4b535c1e5a93dab65d69dd4ccdfd2ec7527a65b2691975a055e31fb656411dd8"
+ },
+ "F2": {
+  "public_lb": 0.20547,
+  "description": "reference only (not selected): F1 + FX column 132 outside Telemed",
+  "variant": "fl_k0.944+pa_d+0.58+mt_d+0.137+fl_seq0+fl_guard1.8+png_arpa0.84375+pa_d-0.08@png+png_arfl0.84375+pa_d+0.5@tif+pa_s0.85@tif+pa_s0.95@png+arpa1.125@sie+arpa0.9076@telr+arfl0.9414@telr+arfl1.0375@sie+pa_f-0.45@sie+mt_band0.75+pa_f-1.55@gry+fl_f1.0683@gry+fl_f0.9964@teln+pa_f+0.12@telr+pa_med1@png+pa_g1.0@sie+pa_g0.8@telr+pa_g0.6@teln+pa_g0.91@gry+pa_g0.7@png+fl_pg0.21@tif+fl_pg0.15@png+pa_med1@tif+png_mus1+pa_pg0.3+mtv0.7+fl_s0.9@tel+fl_dev0.5+pa_ens1@png+fl_gx1.35+mtva1+pa_f+1.45@teln+fl_f0.9986@telr+mt_f+0.1@sie+mt_f-0.24@telr+mt_f-0.4@teln+pa_seq0.5@tel+fxf132+fl_fx0.85+fl_f0.9846@sie+fl_f0.9888@png+pa_f-0.04@png+fxm85+mt_fx0.35+ctab+rbasek+img"
+ }
+}
