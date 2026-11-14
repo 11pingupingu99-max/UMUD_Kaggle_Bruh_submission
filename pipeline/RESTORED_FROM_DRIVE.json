@@ -1,0 +1,65 @@
+[
+  {
+    "name": "08_UMUD_R76T_A76_F76_TRENING_COLAB.ipynb",
+    "sha256": "86ab6b43fdef819347e8eaa03e07cddee9ea341f0c392a316fd5dff9bb947759",
+    "bytes": 250192,
+    "source_url": "https://drive.google.com/file/d/1TFWjH97T07MzFJQirSTtdJQh8wN_Uv3W/view?usp=drivesdk",
+    "code_cells": 7
+  },
+  {
+    "name": "07_UMUD_R71T_PECZKI_TRENING_COLAB_v1_1.ipynb",
+    "sha256": "36ca4af173d96cad2e404d1f83feee032035627385b0ea903697d6c0dce7dad9",
+    "bytes": 115043,
+    "source_url": "https://drive.google.com/file/d/1405YNOG1jI-SLiNE8TJIoq-OmtjGhe3F/view?usp=drivesdk",
+    "code_cells": 8
+  },
+  {
+    "name": "04_UMUD_R22_B_ENSEMBLE_AND_SUBMISSIONS.ipynb",
+    "sha256": "484b8560bb189c033f1532f7d07085bba6ec18846a02aca6b1363fa04ca28c8e",
+    "bytes": 228574,
+    "source_url": "https://drive.google.com/file/d/10XplXGAEriU4We0GNjU8AEWhGCf4kYE1/view?usp=drivesdk",
+    "code_cells": 5
+  },
+  {
+    "name": "04_UMUD_R22_A_RECOVERY_AMP_v1_0_1.ipynb",
+    "sha256": "2cedf392ae0770ac31f980d34b6300ca89d61a2469d5bfbefcb2337979ecb285",
+    "bytes": 309564,
+    "source_url": "https://drive.google.com/file/d/1OoDTKwcYzCyYQbCaQbpVJCybhbXrP2dC/view?usp=drivesdk",
+    "code_cells": 7
+  },
+  {
+    "name": "04_UMUD_R22_A_TRAIN_CONVNEXT_5FOLD.ipynb",
+    "sha256": "f6be88ec7a5130a88b09af60e0346e0c235794105dc146614f4fd5018e0990cf",
+    "bytes": 229346,
+    "source_url": "https://drive.google.com/file/d/1DenJWYQnqpG3tPzlzkn0TCifHGF8eTOw/view?usp=drivesdk",
+    "code_cells": 6
+  },
+  {
+    "name": "03_UMUD_R20_PA_DIAGNOSTYKA.ipynb",
+    "sha256": "0f00d7e6309fcc30f301f7844237855ed730137e11a036c7ff6efcb68c74c4f9",
+    "bytes": 252054,
+    "source_url": "https://drive.google.com/file/d/18fB_7hzK6uRzgiuK4-d-CU24zeLf4Vgw/view?usp=drivesdk",
+    "code_cells": 6
+  },
+  {
+    "name": "02_UMUD_R17C_OCENA_I_PREDYKCJE_COLAB.ipynb",
+    "sha256": "56c92dda940fd82b1bc915468a02fc4e81787618243eb15352d36e8ddeaa1c03",
+    "bytes": 595528,
+    "source_url": "https://drive.google.com/file/d/1l7hTyn4a4R5l7EGlEKJaL2dgPOQ8KD-d/view?usp=drivesdk",
+    "code_cells": 6
+  },
+  {
+    "name": "02_UMUD_R17B_TRENING_COLAB.ipynb",
+    "sha256": "e0fbe2386e5940c5b81c3153e36d49d8245909f15710334c53b877b4881257e8",
+    "bytes": 607873,
+    "source_url": "https://drive.google.com/file/d/1Xu1x9sKHMdwd598JXiND6QdUqXmADqI3/view?usp=drivesdk",
+    "code_cells": 6
+  },
+  {
+    "name": "01_UMUD_R12B_MT_OVERNIGHT_COLAB_DRIVE_KAGGLE_AUTOFETCH_v1_0_3_RUNTIME_HARDENED.ipynb",
+    "sha256": "44f42ad78d3dbc43960a7c07e0dd78ef076015d6818f35b852f08fa77d6b1cb5",
+    "bytes": 164379,
+    "source_url": "https://drive.google.com/file/d/1rvf_pSo4rse5_F-5VRJAaRYeb8zGvXZ3/view?usp=drivesdk",
+    "code_cells": 15
+  }
+]
