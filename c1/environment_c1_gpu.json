@@ -1,0 +1,19 @@
+{
+  "python": "3.13.16",
+  "gpu": "Tesla T4",
+  "cuda": "13.0",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "scikit-image": "0.25.2",
+    "Pillow": "11.3.0",
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "timm": "1.0.31",
+    "opencv": "4.14.0"
+  },
+  "cudnn_allow_tf32": true,
+  "matmul_allow_tf32": false,
+  "note": "Versions recorded in the successful C1 run; not an assertion that a new Kaggle runtime matches them."
+}

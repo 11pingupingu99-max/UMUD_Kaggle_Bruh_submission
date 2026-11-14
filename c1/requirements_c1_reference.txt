@@ -1,0 +1,9 @@
+# Versions recorded in the successful C1 T4 run, 13 Nov 2026.
+# Keep Colab's CUDA torch/torchvision pair. The notebook installs only missing helpers.
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-image==0.25.2
+opencv-python-headless==4.14.0.94
+Pillow==11.3.0
+timm==1.0.31

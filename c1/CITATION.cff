@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "UMUD final pipeline: muscle architecture from B-mode ultrasound"
+version: 0.2.0
+license: GPL-3.0-or-later
+authors:
+  - name: "Bruhabcdfg team (UMUD Challenge, Kaggle)"
+keywords: [ultrasound, muscle architecture, pennation angle, fascicle length, muscle thickness, deep learning]
+repository-code: "https://github.com/11pingupingu99-max/UMUD_Kaggle_Bruh_submission"
