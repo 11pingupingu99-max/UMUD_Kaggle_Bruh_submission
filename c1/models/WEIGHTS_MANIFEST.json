@@ -1,0 +1,206 @@
+{
+  "schema": "UMUD_C1_WEIGHTS_V1",
+  "model_count": 30,
+  "source_inference_run": "C1_FROM_IMAGES_20261113",
+  "source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+  "publication_status": "BINARY_WEIGHTS_NOT_INCLUDED_IN_SOURCE_ARCHIVE",
+  "kaggle_dataset_ref": null,
+  "models": {
+    "r12b": [
+      {
+        "sha256": "21ec34d0f5dd7664ecab0ca608f976fdf9d2a161e2af2873c21d513cd5ae19ef",
+        "path": "r12b/model.pt"
+      }
+    ],
+    "r22": [
+      {
+        "sha256": "55889631abf3e6c5f9d0fb6562e4b421a15ecfb0f9569f88639a1fdd14217c10",
+        "fold": 0,
+        "side": 768,
+        "path": "r22/fold_0/final.pt"
+      },
+      {
+        "sha256": "73c002cbc94f62352a85819a2ca248b63a357806165bf150f66827ef35330894",
+        "fold": 1,
+        "side": 768,
+        "path": "r22/fold_1/final.pt"
+      },
+      {
+        "sha256": "b896b2cc596420ab8a221bb1c5b11935e6269114fcd1359658b9173cd0952591",
+        "fold": 2,
+        "side": 768,
+        "path": "r22/fold_2/final.pt"
+      },
+      {
+        "sha256": "35f9eb11e426e6105670f1d4d1367e8521a94758ec6500736c2892a44933d9d1",
+        "fold": 3,
+        "side": 768,
+        "path": "r22/fold_3/final.pt"
+      },
+      {
+        "sha256": "d4a4b511ae4677435b8dddaef198e6c4e9f61617b281e8efc3d8d4d56b519a8b",
+        "fold": 4,
+        "side": 768,
+        "path": "r22/fold_4/final.pt"
+      }
+    ],
+    "v2": [
+      {
+        "sha256": "a88f29f0c147a6ac8458b2d541ccc9269b1f5d4d4533abd10381549d4b24f457",
+        "fold": 0,
+        "side": 768,
+        "path": "v2/fold_0/final.pt"
+      },
+      {
+        "sha256": "c0f169a1a9d28d589a3db0c2c6ddb1b063468e8d793f2980121b50bcdd0fcdd6",
+        "fold": 1,
+        "side": 768,
+        "path": "v2/fold_1/final.pt"
+      },
+      {
+        "sha256": "f09f99a042a448e9e83de5d11707486c75ca1ccf1bed1752cfcd0974baba7dc0",
+        "fold": 2,
+        "side": 768,
+        "path": "v2/fold_2/final.pt"
+      },
+      {
+        "sha256": "a664de1776a52d0a14b1cd69e9eab26c7315d6310a71c94e9a4dd73b1a380dd4",
+        "fold": 3,
+        "side": 768,
+        "path": "v2/fold_3/final.pt"
+      },
+      {
+        "sha256": "9bb623fa2761e0a6b8b14f153d76b2cd7b9ca2b0e39ffe5e0938a921685f9f3a",
+        "fold": 4,
+        "side": 768,
+        "path": "v2/fold_4/final.pt"
+      }
+    ],
+    "a76": [
+      {
+        "sha256": "fbd045ae13d5fdec8de2ddcf1149ce9dbdb8dacf687b87b1dfb31e91821ddeed",
+        "fold": 0,
+        "side": 1024,
+        "path": "a76/fold_0/final.pt"
+      },
+      {
+        "sha256": "4ba5c9ef184418515b7d3e2b1f8e52be01070adcca7a7fe2a41eb616efcf40f9",
+        "fold": 1,
+        "side": 1024,
+        "path": "a76/fold_1/final.pt"
+      },
+      {
+        "sha256": "2df9db6797dad5fcf24e34d67e34b9bfc7bf556d7397848b3a4b32771f5d24cd",
+        "fold": 2,
+        "side": 1024,
+        "path": "a76/fold_2/final.pt"
+      },
+      {
+        "sha256": "1155b8d82da482b4181330a60c7c3dd07eb4969d9554d741d4387864c2155513",
+        "fold": 3,
+        "side": 1024,
+        "path": "a76/fold_3/final.pt"
+      },
+      {
+        "sha256": "223d220374bf7039eb800e28ddf724d13f96ee9cce3ea58e5b68da762faeeeee",
+        "fold": 4,
+        "side": 1024,
+        "path": "a76/fold_4/final.pt"
+      }
+    ],
+    "f71": [
+      {
+        "sha256": "a10a9494945438f9f4aa68f5d576e82643439e0ef2f6f5e354a64098ff8e86cc",
+        "fold": 0,
+        "side": 1024,
+        "path": "f71/fold_0/final.pt"
+      },
+      {
+        "sha256": "30c12daaf1ee0a763dd4c03360487b7e740fc51ecd2ad700ea70a2aa371c3d7b",
+        "fold": 1,
+        "side": 1024,
+        "path": "f71/fold_1/final.pt"
+      },
+      {
+        "sha256": "3c6a37065d108cd05721388e7044b6c83d80ecb6371e6a74a290db18bf1062f4",
+        "fold": 2,
+        "side": 1024,
+        "path": "f71/fold_2/final.pt"
+      },
+      {
+        "sha256": "63cf933331e89326a8ba5c01aec1c6055172309e8070a5ee182d4e467bb0d630",
+        "fold": 3,
+        "side": 1024,
+        "path": "f71/fold_3/final.pt"
+      },
+      {
+        "sha256": "dfb8ceaea77d41c918665d19bf58e2747e0cf500d7eefdaeeab87a4e62844e16",
+        "fold": 4,
+        "side": 1024,
+        "path": "f71/fold_4/final.pt"
+      }
+    ],
+    "f86": [
+      {
+        "sha256": "2455ceb6a800c9ee78b4eaa3c1a4a406904bd9527e57eb9c6beb0ae76719a0b4",
+        "fold": 0,
+        "side": 1024,
+        "path": "f86/fold_0/final.pt"
+      },
+      {
+        "sha256": "888710f078af9ed2abe948c6eadfda36b59a555d3775b07e9d04775e0a6b7170",
+        "fold": 1,
+        "side": 1024,
+        "path": "f86/fold_1/final.pt"
+      },
+      {
+        "sha256": "cd1e84c3b9ca81fddac19cfab1008f149dd1b342b8a24f1fd067e46a3942d929",
+        "fold": 2,
+        "side": 1024,
+        "path": "f86/fold_2/final.pt"
+      },
+      {
+        "sha256": "3b0aa9b74ca3bf4922d3a6835bdbdffc75a664896335ecf019e0dc87bae8bba0",
+        "fold": 3,
+        "side": 1024,
+        "path": "f86/fold_3/final.pt"
+      },
+      {
+        "sha256": "9bf750ae4724f14a6871c591e80b107b10d626bfe2297a68a531a12f626870a7",
+        "fold": 4,
+        "side": 1024,
+        "path": "f86/fold_4/final.pt"
+      }
+    ],
+    "r17": [
+      {
+        "sha256": "2cff23e22d13c60e21a2eaaf27d8240350b9760efcf2a916dbd731c7112ee952",
+        "name": "develop",
+        "threshold": 0.65,
+        "side": 768,
+        "path": "r17/develop/best.pt"
+      },
+      {
+        "sha256": "6957c5228c1cf5c2067096d5f0214f6c2a7f54b0aeca03b8f664051022859d31",
+        "name": "refit",
+        "threshold": 0.65,
+        "side": 768,
+        "path": "r17/refit/best.pt"
+      },
+      {
+        "sha256": "68bdb3c9ee13bfcd0d4d866debd74ec8b683e5f3bcf309ed80c8977e4538804c",
+        "name": "seed1",
+        "threshold": 0.65,
+        "side": 768,
+        "path": "r17/seed1/best.pt"
+      },
+      {
+        "sha256": "f0db0d72a4b61a5075b9660de5e5295a545ef7b915118c6543f350b05d381707",
+        "name": "seed2",
+        "threshold": 0.65,
+        "side": 768,
+        "path": "r17/seed2/best.pt"
+      }
+    ]
+  }
+}
