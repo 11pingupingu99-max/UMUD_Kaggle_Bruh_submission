@@ -3,9 +3,25 @@
   "@type": "SoftwareSourceCode",
   "name": "UMUD final pipeline",
   "description": "Pennation angle, fascicle length and muscle thickness from B-mode ultrasound images (UMUD Challenge solution).",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "https://spdx.org/licenses/GPL-3.0-or-later",
   "programmingLanguage": "Python",
-  "keywords": ["ultrasound", "muscle architecture", "segmentation"],
-  "softwareRequirements": ["numpy", "pandas", "pillow", "scipy", "scikit-image", "opencv-python-headless", "torch", "timm"]
+  "keywords": [
+    "ultrasound",
+    "muscle architecture",
+    "segmentation"
+  ],
+  "softwareRequirements": [
+    "numpy",
+    "pandas",
+    "pillow",
+    "scipy",
+    "scikit-image",
+    "opencv-python-headless",
+    "torch",
+    "timm",
+    "torchvision"
+  ],
+  "dateModified": "2026-11-14",
+  "codeRepository": "https://github.com/11pingupingu99-max/UMUD_Kaggle_Bruh_submission"
 }

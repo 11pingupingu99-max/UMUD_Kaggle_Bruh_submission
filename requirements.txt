@@ -6,3 +6,4 @@ scikit-image>=0.22
 opencv-python-headless>=4.9
 torch>=2.2
 timm>=0.9
+torchvision>=0.17
