@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+  "pipeline_notebooks": 16,
+  "numbered_drive_notebooks_byte_verified": 9,
+  "new_gpu_inference_performed": false,
+  "git_commit_created": true,
+  "github_publication_performed": true,
+  "binary_weights_included": false,
+  "publication_record_scope": "Code/notebooks/metadata only; private run artifacts excluded.",
+  "public_test_scope": "source and model metadata, notebook package integrity, synthetic CSV validation",
+  "private_run_exports_published": false
+}

@@ -1,0 +1,8 @@
+{
+  "scope": "CODE_NOTEBOOKS_AND_METHOD_METADATA_ONLY",
+  "new_private_prediction_tables": false,
+  "new_private_run_logs": false,
+  "new_private_comparison_csvs": false,
+  "new_private_fixture_tables": false,
+  "existing_public_legacy_files": "preserved unchanged unless replaced by the current C1 notebook presets"
+}

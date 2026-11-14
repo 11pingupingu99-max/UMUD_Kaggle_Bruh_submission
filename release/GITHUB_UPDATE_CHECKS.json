@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+  "profiles": [
+    {
+      "file": "final/UMUD_FINAL_F1_KAGGLE.ipynb",
+      "sha256": "d702138a2fc5ecc133ddc7c6bff3cd5007eee0557ab3df48b6bbd3081f7cee5a",
+      "profile": "C1_F1",
+      "compiled_code_cells": 6,
+      "frozen_payload_source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+      "embedded_prediction_csv": false
+    },
+    {
+      "file": "final/UMUD_FINAL_F3_KAGGLE.ipynb",
+      "sha256": "298b267c5edebd296d2e58eeb1023662e46253f8af71995e1adebf777f4ad09b",
+      "profile": "C1_F3",
+      "compiled_code_cells": 6,
+      "frozen_payload_source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+      "embedded_prediction_csv": false
+    },
+    {
+      "file": "final/UMUD_WAGI_FINAL_COLAB.ipynb",
+      "sha256": "9b4dc28cf98d85eb82a8e056a298535c2ecdf4c24d63287c3f04277517d255cf",
+      "profile": null,
+      "compiled_code_cells": 4,
+      "frozen_payload_source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+      "embedded_prediction_csv": false
+    }
+  ],
+  "pipeline_notebooks": 16,
+  "numbered_drive_notebooks_byte_verified": 9,
+  "new_gpu_inference_performed": false,
+  "git_commit_created": true,
+  "github_publication_performed": true,
+  "binary_weights_included": false,
+  "publication_record_scope": "Code/notebooks/metadata only; private run artifacts excluded.",
+  "public_test_scope": "source and model metadata, notebook package integrity, synthetic CSV validation",
+  "private_run_exports_published": false
+}

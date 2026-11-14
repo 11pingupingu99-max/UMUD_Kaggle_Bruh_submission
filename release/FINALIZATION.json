@@ -1,0 +1,35 @@
+{
+  "status": "PROFILES_FROZEN_SCORES_REPORTED_FINAL_SELECTION_PENDING",
+  "reviewed_source_sha256": "af622512b9883b87aa1fe95f026ec882f95791266467abbc4acf49e6f93771c9",
+  "candidate_profiles": {
+    "C1_F1": {
+      "csv_sha256": "e936f2231644be55e2630e8b198b3fdb70461617f75dfc944495604f7aeca8f8",
+      "public_score": 0.20486,
+      "kaggle_submission_id": null,
+      "score_source": "reported by user in the current conversation on 2026-11-14"
+    },
+    "C1_F3": {
+      "csv_sha256": "8e1cfd98cb8af629f5098f9e073344cceca0e3c440efd83cabc3800e2847c613",
+      "public_score": 0.20494,
+      "kaggle_submission_id": null,
+      "score_source": "reported by user in the current conversation on 2026-11-14"
+    }
+  },
+  "selected_final_submission_ids": null,
+  "public_weights_dataset": null,
+  "public_source_repository": "https://github.com/11pingupingu99-max/UMUD_Kaggle_Bruh_submission",
+  "note": "The source update is published with this commit. Exact Kaggle final-selection IDs and a public weights Dataset URL were not supplied. Binary checkpoint publication and Kaggle final selection were not performed by this GitHub update.",
+  "frozen_local_date": "2026-11-14",
+  "timezone": "Europe/Warsaw",
+  "recommended_final_profiles": [
+    "C1_F1",
+    "C1_F3"
+  ],
+  "primary_profile": "C1_F1",
+  "weights_packaging_notebook": "final/UMUD_WAGI_FINAL_COLAB.ipynb",
+  "publication_state": "CODE_PUBLISHED_WITH_THIS_COMMIT",
+  "inference_notebooks": {
+    "F1": "final/UMUD_FINAL_F1_KAGGLE.ipynb",
+    "F3": "final/UMUD_FINAL_F3_KAGGLE.ipynb"
+  }
+}
